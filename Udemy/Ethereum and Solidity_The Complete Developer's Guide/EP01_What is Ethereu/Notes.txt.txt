@@ -1,0 +1,5 @@
+連結到原始比特幣白皮書
+如果您有興趣，這裡有原始比特幣和乙太坊白皮書的連結。
+
+比特幣：點對點電子現金系統（https://bitcoin.org/bitcoin.pdf)
+乙太坊：終極智慧合約和去中心化應用平臺（http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html)
