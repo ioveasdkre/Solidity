@@ -1,3 +1,0 @@
-npm install @remix-project/remixd
-remix網頁編輯器連結本地端
-remixd -s 路徑 --remix-ide https://remix.ethereum.org
