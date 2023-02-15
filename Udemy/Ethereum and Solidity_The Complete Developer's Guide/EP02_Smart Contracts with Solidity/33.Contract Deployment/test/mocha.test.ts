@@ -22,7 +22,7 @@ beforeEach(() => {
   const printCar = () => {
     console.log(car);
   };
-  printCar;
+  printCar();
 });
 
 // 測試 Car 類別的方法
