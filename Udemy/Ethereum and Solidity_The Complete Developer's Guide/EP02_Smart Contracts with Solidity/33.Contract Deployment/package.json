@@ -4,16 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile": "ts-node compile.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --require ts-node/register test/**/*.test.ts",
+    "compile": "ts-node compile.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "solc": "^0.8.17"
+    "ganache": "^7.7.4",
+    "mocha": "^10.2.0",
+    "solc": "^0.8.17",
+    "web3": "^1.8.2"
   },
   "devDependencies": {
+    "@types/mocha": "^10.0.1",
     "ts-node": "^10.9.1"
   }
 }

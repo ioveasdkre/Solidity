@@ -1,4 +1,5 @@
 import assert from "assert";
-import ganache from "ganache-cli";
-import Web3 from "web3";
+const ganache = require("ganache");
+const Web3 = require("web3");
 const web4 = new Web3(ganache.provider());
+
